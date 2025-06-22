@@ -38,6 +38,13 @@ public class GrepServiceTest {
     }
 
     @Test
+    void testSearchWhenFileProcessorDoesNotReturnSearchResultsForNonTextFile() {
+        grepService = new GrepService("test-data", "unique");
+        List<String> result = grepService.search();
+        assertTrue(result.isEmpty());
+    }
+
+    @Test
     void testSearchWhenFileProcessorReturnsEmptyList() {
         grepService = new GrepService("test-data", "nonexistent");
         List<String> result = grepService.search();
