@@ -1,0 +1,11 @@
+This is a sample text file for testing the multithreaded grep tool.
+It contains various lines with different content to test pattern matching.
+Hello world! This line contains the word "Hello".
+Here's another line with some text.
+TODO: This is a todo item that should be found.
+Another line with Hello in it.
+This line has no special content.
+Some lines with special characters: $pecial ch@rs and [brackets].
+This line contains numbers: 12345 and 67890.
+Email addresses like test@example.com should be searchable.
+The end of the file.
