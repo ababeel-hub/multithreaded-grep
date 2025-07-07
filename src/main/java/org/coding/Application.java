@@ -1,6 +1,6 @@
-package net.bunny;
+package org.coding;
 
-import net.bunny.service.GrepService;
+import org.coding.service.GrepService;
 
 import java.util.List;
 

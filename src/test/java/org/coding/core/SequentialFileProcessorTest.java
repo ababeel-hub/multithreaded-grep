@@ -1,6 +1,6 @@
-package net.bunny.core;
+package org.coding.core;
 
-import net.bunny.model.SearchResult;
+import org.coding.model.SearchResult;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;

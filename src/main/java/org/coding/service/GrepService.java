@@ -1,10 +1,10 @@
-package net.bunny.service;
+package org.coding.service;
 
-import net.bunny.core.FileProcessor;
-import net.bunny.core.PatternMatcher;
-import net.bunny.core.SequentialFileProcessor;
-import net.bunny.core.StringPatternMatcher;
-import net.bunny.model.SearchResult;
+import org.coding.core.FileProcessor;
+import org.coding.core.PatternMatcher;
+import org.coding.core.SequentialFileProcessor;
+import org.coding.core.StringPatternMatcher;
+import org.coding.model.SearchResult;
 
 import java.io.IOException;
 import java.nio.file.Files;

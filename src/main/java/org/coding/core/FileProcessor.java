@@ -1,6 +1,6 @@
-package net.bunny.core;
+package org.coding.core;
 
-import net.bunny.model.SearchResult;
+import org.coding.model.SearchResult;
 
 import java.nio.file.Path;
 import java.util.List;

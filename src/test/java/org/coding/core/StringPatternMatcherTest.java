@@ -1,4 +1,4 @@
-package net.bunny.core;
+package org.coding.core;
 
 import org.junit.jupiter.api.Test;
 

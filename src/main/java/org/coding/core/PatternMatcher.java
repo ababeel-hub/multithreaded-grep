@@ -1,4 +1,4 @@
-package net.bunny.core;
+package org.coding.core;
 
 /**
  * Interface for matching a pattern within a line of text.

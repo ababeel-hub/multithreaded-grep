@@ -1,4 +1,4 @@
-package net.bunny.core;
+package org.coding.core;
 
 /**
  * Matches string in the given input line.

@@ -1,7 +1,7 @@
-package net.bunny.service;
+package org.coding.service;
 
 
-import net.bunny.core.FileProcessor;
+import org.coding.core.FileProcessor;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;

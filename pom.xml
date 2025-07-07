@@ -55,7 +55,7 @@
                         <configuration>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>net.bunny.Application</mainClass>
+                                    <mainClass>org.coding.Application</mainClass>
                                 </transformer>
                             </transformers>
                             <filters>
